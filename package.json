@@ -1,5 +1,5 @@
 {
-  "name": "json-stringify",
+  "name": "ch-und-json-stringify",
   "version": "1.1.1",
   "description": "deterministic JSON.stringify() with custom sorting to get deterministic hashes from stringified results",
   "main": "index.js",
