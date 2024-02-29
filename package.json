@@ -1,5 +1,5 @@
 {
-	"name": "json-stable-stringify",
+	"name": "json-stringify",
 	"version": "1.1.1",
 	"description": "deterministic JSON.stringify() with custom sorting to get deterministic hashes from stringified results",
 	"main": "index.js",
@@ -46,9 +46,9 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/ljharb/json-stable-stringify.git"
+		"url": "git://github.com/ch-und/json-stringify.git"
 	},
-	"homepage": "https://github.com/ljharb/json-stable-stringify",
+	"homepage": "https://github.com/ch-und/json-stringify",
 	"keywords": [
 		"json",
 		"stringify",
@@ -61,9 +61,6 @@
 		"name": "James Halliday",
 		"email": "mail@substack.net",
 		"url": "http://substack.net"
-	},
-	"funding": {
-		"url": "https://github.com/sponsors/ljharb"
 	},
 	"license": "MIT",
 	"engines": {
