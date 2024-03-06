@@ -1,4 +1,4 @@
-# json-stringify <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
+# ch-und-json-stringify
 
 [![github actions][actions-image]][actions-url]
 [![coverage][codecov-image]][codecov-url]
